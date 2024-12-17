@@ -119,7 +119,7 @@ class WelcomeScreen extends StatelessWidget {
                     },
                     style: ElevatedButton.styleFrom(
 
-                      minimumSize: const Size(270, 40), // Adjust size as needed
+                      minimumSize: const Size(269, 40), // Adjust size as needed
                      backgroundColor: Colors.transparent, // Set button background
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(17.0),
