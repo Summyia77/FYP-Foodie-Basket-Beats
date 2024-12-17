@@ -127,7 +127,7 @@ class WelcomeScreen extends StatelessWidget {
                       ),
                     ),
                     child: Text(
-                      'Create An Account',
+                      'aron deng',
                       style: TextStyle(
                         fontSize: 15.0,
                         color: Colors.white,
